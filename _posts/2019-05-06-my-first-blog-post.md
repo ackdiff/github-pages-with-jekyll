@@ -1,6 +1,6 @@
 ---
 title: Your blog post title
-date: 2019-05-06
+date: YYYY-MM-DD
 ---
 > 如何找到优秀的源码，进行深度的框架解读，学习其他高手的代码，自己共享贡献。
 - 常用词含义
