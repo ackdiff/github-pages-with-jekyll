@@ -1,5 +1,5 @@
 ---
-title: "how to use the github effective"
+title: "github的一些骚操作"
 date: 2019-5-6
 ---
 > 如何找到优秀的源码，进行深度的框架解读，学习其他高手的代码，自己共享贡献。
